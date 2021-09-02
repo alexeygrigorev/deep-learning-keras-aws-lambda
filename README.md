@@ -1,6 +1,6 @@
 # Deep Learning with Keras and AWS Lambda
 
-[Link for registration](https://learning.oreilly.com/live-events/deep-learning-with-keras-and-aws-lambda/0636920060925/0636920060924/)
+[Rgistration](https://learning.oreilly.com/live-events/deep-learning-with-keras-and-aws-lambda/0636920060925/0636920060924/)
 
 > Deep learning achieves the best performance for computer vision, natural language processing, and recommendation tasks.
 > 
@@ -9,6 +9,13 @@
 > In this workshop, you'll learn how to do a deep learning project end-to-end. First, we will use Keras to train an image classification model that classifies pictures of clothes. Then we’ll deploy this model with AWS Lambda and TensorFlow-Lite.
 >
 > After finishing, you’ll be able to train a similar model and host it in the cloud. 
+
+## Links
+
+* [DataTalks.Club](https://datatalks.club/) - the community of people who love data
+* [Machine Learning Bookcamp](https://mlbookcamp.com/) - the book on which the workshop is based
+* [ML Bookcamp Github Repo](https://github.com/alexeygrigorev/mlbookcamp-code) - all the code from the book
+* [Machine Learning Zoomcamp](http://mlzoomcamp.com/) - free course based on the book
 
 
 ## Outline
@@ -64,4 +71,9 @@
 * Using the webservice for image classification
 
 
-More info coming soon!
+## Extra resources
+
+* [CS231n](https://cs231n.github.io/) - a course about neural networks for computer vision
+* [Creating an AWS account](https://mlbookcamp.com/article/aws)
+* [Tutorial about Lambda and API Gateway](https://github.com/alexeygrigorev/aws-lambda-docker/blob/main/guide.md)
+* [Requesting a quota increase for AWS Sagemaker](https://livebook.manning.com/book/machine-learning-bookcamp/appendix-e)
