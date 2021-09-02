@@ -1,6 +1,6 @@
 # Deep Learning with Keras and AWS Lambda
 
-`<LINK GOES HErE>`
+[Link for registration](https://learning.oreilly.com/live-events/deep-learning-with-keras-and-aws-lambda/0636920060925/0636920060924/)
 
 > Deep learning achieves the best performance for computer vision, natural language processing, and recommendation tasks.
 > 
