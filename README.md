@@ -1,7 +1,5 @@
 # Deep Learning with Keras and AWS Lambda
 
-[Rgistration](https://learning.oreilly.com/live-events/deep-learning-with-keras-and-aws-lambda/0636920060925/0636920060924/)
-
 > Deep learning achieves the best performance for computer vision, natural language processing, and recommendation tasks.
 > 
 > However, it’s difficult to use deep learning in production: it requires a lot of effort to develop proper infrastructure for serving deep learning models. Platforms for serverless computing, such as AWS Lambda, provide a good alternative: they take care of scaling up and down and offer attractive pricing based only on actual usage.
@@ -19,6 +17,8 @@
 
 
 ## Part 1: Image Classification with TensorFlow and Keras
+
+TODO: add the registration link
 
 ### Segment 1: Introduction
 
@@ -44,7 +44,9 @@
 * Testing the model: applying it to test data
 
 
-## Part 2: AWS Lambda 
+## Part 2: Deploying Deep Learning Models with AWS Lambda 
+
+TODO: add the registration link
 
 ### Segment 1: AWS Lambda
 
