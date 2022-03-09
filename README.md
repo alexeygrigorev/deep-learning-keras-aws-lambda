@@ -18,23 +18,23 @@
 * [Machine Learning Zoomcamp](http://mlzoomcamp.com/) - free course based on the book
 
 
-## Outline
+## Part 1: Image Classification with TensorFlow and Keras
 
-### Segment 1: Introduction (10 minutes)
+### Segment 1: Introduction
 
 * About the instructor
 * What we’ll cover today
 * How to set up the environment — AWS, Anaconda + Jupyter, TensorFlow + Keras, Docker, VS Code
 * The first look at the dataset
 
-### Segment 2: Training the first model (35 minutes)
+### Segment 2: Training the first model
 
 * Loading and preparing data
 * Transfer learning with Keras
 * Training a small model on a GPU
 * Saving the model and using it
 
-### Segment 3: Improving the model (35 minutes)
+### Segment 3: Improving the model
 
 * Adding more layers
 * Checkpointing: saving the best version of our model
@@ -43,20 +43,23 @@
 * Training a larger model
 * Testing the model: applying it to test data
 
-### Segment 4: AWS Lambda (15 minutes)
+
+## Part 2: AWS Lambda 
+
+### Segment 1: AWS Lambda
 
 * What is AWS Lambda
 * Implementing a simple Lambda function
 * Lambda and Docker 
 
-### Segment 5: TenserFlow-Lite (30 minutes)
+### Segment 2: TenserFlow-Lite
 
 * TensorFlow vs TensorFlow-Lite
 * Converting Keras models to TF-Lite
 * Making predictions with TF-Lite
 * Using keras-image-helper for pre-processing of images
 
-### Segment 6: AWS Lambda + TF-Lite (40 minutes)
+### Segment 3: AWS Lambda + TF-Lite
 
 * Putting everything together
 * Preparing a Docker file 
@@ -65,7 +68,7 @@
 * Uploading the docker image to ECR 
 * Creating and testing a Lambda function
   
-### Segment 7: API Gateway (10 minutes)
+### Segment 4: API Gateway
 
 * Putting the Lambda function in a web service
 * Using the webservice for image classification
