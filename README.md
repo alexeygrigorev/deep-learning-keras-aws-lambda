@@ -18,7 +18,7 @@
 
 ## Part 1: Image Classification with TensorFlow and Keras
 
-TODO: add the registration link
+[Registration link](https://www.oreilly.com/live-events/image-classification-with-tensorflow-and-keras/0636920073551/0636920073549/)
 
 ### Segment 1: Introduction
 
